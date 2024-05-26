@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M.S.S.SANDEEO</h1>
+<h1 align="center">Hi 👋, I'm M.S.S.SANDEEP</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep0620m&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep0620m" /> </p>
